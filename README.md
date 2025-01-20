@@ -15,8 +15,10 @@ This repository contains a python jupyter notebook and a report of the solution 
 **Mean value of the percentage error as a function of the number of monomers using the montecarlo algorithm for large time.**
 ![defect2](https://github.com/EstebanM-98/Project_Stochastic_cells/blob/75daf145041a562f334ed62b03277039165f6bb8/Images/Mean_percentage_error_vsN_without_many_realizatios.png)
 
+**Comparison between theoretical solution and numerical solution using the montecarlo algorthm considering many realization and taking the average.**
 ![defect3](https://github.com/EstebanM-98/Project_Stochastic_cells/blob/75daf145041a562f334ed62b03277039165f6bb8/Images/Mvst_many_realizations_comparison.png)
 
+**Mean value of the percentage error as a function of the number of monomers using the montecarlo algorithm for large time considering many realization and taking the average.**
 ![defect4](https://github.com/EstebanM-98/Project_Stochastic_cells/blob/75daf145041a562f334ed62b03277039165f6bb8/Images/Mean_percentage_error_vsN_with_many_realizatios.png)
 
 
