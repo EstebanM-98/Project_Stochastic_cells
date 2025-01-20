@@ -21,6 +21,7 @@ This repository contains a python jupyter notebook and a report of the solution 
 **Mean value of the percentage error as a function of the number of monomers using the montecarlo algorithm for large time considering many realization and taking the average.**
 ![defect4](https://github.com/EstebanM-98/Project_Stochastic_cells/blob/75daf145041a562f334ed62b03277039165f6bb8/Images/Mean_percentage_error_vsN_with_many_realizatios.png)
 
+- relato_escrito.md: Report with solution of the problem
 
 ## Prerequisites
 
@@ -47,4 +48,4 @@ You can run the notebook in Google Colab without installing anything locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/your_repositor
+   git clone https://github.com/EstebanM-98/Project_Stochastic_cells
