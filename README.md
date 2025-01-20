@@ -34,7 +34,7 @@ To run this notebook, you need:
 You can run the notebook in Google Colab without installing anything locally:
 
 1. Click the button below:
-   [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your_username/your_repository/blob/main/notebook.ipynb)
+   [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KiGS7GFFGm1o5oKJjWtOs8WhnTbzIhDy)
    
 2. Once the notebook is open in Colab, run the cells directly.
 
