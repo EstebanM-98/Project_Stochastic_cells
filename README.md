@@ -14,7 +14,7 @@ This repository contains a Python notebook that you can explore and execute to r
 
 ![defect3](https://github.com/EstebanM-98/Project_Stochastic_cells/blob/75daf145041a562f334ed62b03277039165f6bb8/Images/Mvst_many_realizations_comparison.png)
 
-![defect4](https://github.com/EstebanM98/Project_Stochastic_cells/blob/75daf145041a562f334ed62b03277039165f6bb8/Images/Mean_percentage_error_vsN_with_many_realizatios.png)
+![defect4](https://github.com/EstebanM-98/Project_Stochastic_cells/blob/75daf145041a562f334ed62b03277039165f6bb8/Images/Mean_percentage_error_vsN_with_many_realizatios.png)
 
 
 ## Prerequisites
