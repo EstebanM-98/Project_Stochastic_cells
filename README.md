@@ -1,10 +1,10 @@
 # Project: [On stochasticity in cell dynamics]
 
-This repository contains a Python notebook that you can explore and execute to reproduce results or learn about.
+This repository contains a python jupyter notebook and a report of the solution to the stochastics cells problem from the Sethna Entropy, Order Parameters, and Complexity book. 
 
 ## Contents
 
-- stocastic_cell.ipynb: The main notebook containing [brief description of notebook contents].
+- stocastic_cell.ipynb: In this notebook you will find the problem statement and the developed functions that lead to the solution. The following graphs were found for the solution.
 
 ![defect](https://github.com/EstebanM-98/Project_Stochastic_cells/blob/a3a441dcae8be7c7966b14f6be8e9977f52f4bb7/Images/Nvst_continuum.png)
 
@@ -26,13 +26,7 @@ To run this notebook, you need:
   - `numpy`
   - `matplotlib`
   - `pandas`
-  - [Other specific dependencies].
-
-## How to View the Notebook
-
-You can view the notebook directly on GitHub or via the link below using [nbviewer](https://nbviewer.org/):
-
-[![View in nbviewer](https://img.shields.io/badge/Open%20in-nbviewer-orange)](https://nbviewer.org/github/your_username/your_repository/blob/main/notebook.ipynb)
+  - `scipy`
 
 ## How to Run the Notebook
 
