@@ -11,7 +11,6 @@ This repository contains a Python notebook that you can explore and execute to r
 
 
 
-
 ## Prerequisites
 
 To run this notebook, you need:
