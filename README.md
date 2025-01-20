@@ -6,7 +6,7 @@ This repository contains a Python notebook that you can explore and execute to r
 
 - stocastic_cell.ipynb: The main notebook containing [brief description of notebook contents].
 
-![defect](https://github.com/EstebanM98/Project_Stochastic_cells/blob/main/Images/Nvst_continuum.png)
+![defect](https://github.com/EstebanM-98/Project_Stochastic_cells/blob/a3a441dcae8be7c7966b14f6be8e9977f52f4bb7/Images/Nvst_continuum.png)
 
 
 
