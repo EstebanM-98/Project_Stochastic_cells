@@ -4,12 +4,15 @@ This repository contains a python jupyter notebook and a report of the solution 
 
 ## Contents
 
-- stocastic_cell.ipynb: In this notebook you will find the problem statement and the developed functions that lead to the solution. The following graphs were found for the solution.
+- stocastic_cell.ipynb: In this notebook you will find the problem statement and the developed functions that lead to the solution. The following plots were found for the solution.
 
+**Comparison between theoretical steady state and numerical solution to the equation describing the reactions of monomers.**
 ![defect](https://github.com/EstebanM-98/Project_Stochastic_cells/blob/a3a441dcae8be7c7966b14f6be8e9977f52f4bb7/Images/Nvst_continuum.png)
 
+**Comparison of the theoretical solution when considering a finite number of monomers and the solution by Monte Carlo**
 ![defect1](https://github.com/EstebanM-98/Project_Stochastic_cells/blob/75daf145041a562f334ed62b03277039165f6bb8/Images/Nvst_stoc_comp.png)
 
+**Mean value of the percentage error as a function of the number of monomers using the montecarlo algorithm for large time.**
 ![defect2](https://github.com/EstebanM-98/Project_Stochastic_cells/blob/75daf145041a562f334ed62b03277039165f6bb8/Images/Mean_percentage_error_vsN_without_many_realizatios.png)
 
 ![defect3](https://github.com/EstebanM-98/Project_Stochastic_cells/blob/75daf145041a562f334ed62b03277039165f6bb8/Images/Mvst_many_realizations_comparison.png)
